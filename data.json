@@ -1,0 +1,12 @@
+{
+    "username": {
+        "value": "chatgpt",
+        "created_at": 1715700000.0,
+        "ttl": null
+    },
+    "session": {
+        "value": "abc123",
+        "created_at": 1715700000.0,
+        "ttl": 5
+    }
+}
